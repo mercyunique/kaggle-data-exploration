@@ -18,3 +18,8 @@ git clone https://github.com/yourusername/kaggle-data-exploration.git
 3. Review the analysis. 
 ## Author 
 **Ide Mercy**
+```sh
+def upload-file (filepath):
+     file.upload (filepath)
+     return upload
+```
